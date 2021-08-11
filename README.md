@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/8382372?v=4" width="170" height="170"/>
+  <img border-radius: 15px src="Sonamol.jpg"/>
   <p align="center">
 <a href="#"><img title="Sonamol.jpg" src="https://img.shields.io/badge/SonaMol-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
